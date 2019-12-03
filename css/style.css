@@ -135,8 +135,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 	font-size: 22px;
 }
 header .intro-text {
-	padding-top: 250px;
-	padding-bottom: 200px;
+	padding-top: 50px;
+	padding-bottom: 150px;
 }
 /* Portfolio Section */
 #portfolio {
